@@ -9,10 +9,10 @@ const NavBar = () => {
                 sistema de asistencia
                 {/* <img className="logo" src={logo} alt="src" /> */}
                 <div>
-                    <button>Remeras</button>
-                    <button>Short</button>
-                    <button>Medias</button>
-                    <button>Accesorios</button>
+                    <button>Empleado</button>
+                    <button>Elementos De Tabajo</button>
+                    <button>Consultas</button>
+                    
                 </div>
                 <div>
                     <CartWidget />
